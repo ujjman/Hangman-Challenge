@@ -11,7 +11,7 @@ This project implements a **Hangman guess function** that:
 2. Leverages a **Logistic Regression** meta-classifier to combine predictions from both models.
 3. Adds **heuristic approaches** (prefix/suffix detection, substring analysis, and vowel-first strategy) to refine guesses.
 
-Overall, these components help the solver achieve higher accuracy compared to a single-model approach. During experimentation, the success rate reached around **59.7%** with partial data usage, and it can be improved further by training on the **full dataset**.
+Overall, these components help the solver achieve higher accuracy compared to a single-model approach. During experimentation, the success rate reached around **64.3%** with partial data usage, and it can be improved further by training on the **full dataset**.
 
 ---
 
